@@ -5,6 +5,8 @@ Select your player and their stat from the dropdown options.
 Then drag the red dots that control the curve to change how their stat grows as they level.
 A slider at the top controls their level in the save file, the curves are automatically edited<img width="997" height="744" alt="bandicam 2026-06-27 20-22-06-092" src="https://github.com/user-attachments/assets/30fadf5c-c542-41df-b3f7-38c7ae8aec32" />
 
+Later on the tool will be developed to edit LENGTH of the game (proof-tested_ and perhaps what moves each player can access.
+
 <img width="997" height="747" alt="bandicam 2026-06-27 20-21-50-904" src="https://github.com/user-attachments/assets/a8262039-4758-4a8d-9926-cf803a1acedb" />
 
 You will need to appropriately edit the python code to refelect the save file you want edited and your specific directory names of the .ebp file being edited.
