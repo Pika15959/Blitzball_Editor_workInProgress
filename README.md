@@ -9,6 +9,7 @@ Later on the tool will be developed to edit LENGTH of the game (proof-tested_ an
 
 <img width="997" height="747" alt="bandicam 2026-06-27 20-21-50-904" src="https://github.com/user-attachments/assets/a8262039-4758-4a8d-9926-cf803a1acedb" />
 
+
 You will need to appropriately edit the python code to refelect the save file you want edited and your specific directory names of the .ebp file being edited.
 <img width="1407" height="284" alt="bandicam 2026-06-27 20-22-47-742" src="https://github.com/user-attachments/assets/8a32b1b5-674a-4468-b768-b36c7c3d0cd1" />
 
